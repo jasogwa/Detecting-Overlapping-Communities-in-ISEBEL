@@ -1,1 +1,1 @@
-# -Overlapping-Communities-in-ISEBEL
+# Detecting-Overlapping-Communities-in-ISEBEL
